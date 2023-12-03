@@ -3,7 +3,7 @@
 Всем добра и позитива. Являюсь начинающим веб-разработчиком. Окончил курсы Яндекс.Практикум. Делаю первый опыт в разработке. Ищу работу и не унываю, потому что: `время + усилия = результат`. Топлю за React.
 
 Что по планам:\
-<img alt="Иконка TypeScript" width="21" height="21" src="/assets/icons/icons8-typescript-48.png"></img> Изучить TypeScript;\
+<img alt="Иконка TypeScript" width="21" height="21" src="/assets/icons/icons8-typescript-48.png" /> Изучить TypeScript;\
 🔣 Алгоритмы, наше всё;\
 🎫 Отметить все [стикеры](https://miro.com/app/board/uXjVNHxhl30=/?share_link_id=162594989692);
 
@@ -13,5 +13,5 @@
 🆙 Улучшать себя и окружающую среду вокруг;
 
 Мой стек:\
-HTML JavaScript Node.js MongoDB\
-CSS React Express Docker
+<img alt="Иконка HTML" width="21" height="21" src="/assets/icons/icons8-html-48.png" /> HTML <img alt="Иконка JS" width="21" height="21" src="/assets/icons/icons8-javascript-48.png" /> JavaScript <img alt="Иконка Node.js" width="21" height="21" src="/assets/icons/icons8-node-js-48.png" /> Node.js <img alt="Иконка MongoDB" width="21" height="21" src="/assets/icons/icons8-mongodb-a-cross-platform-document-oriented-database-program-24.png" /> MongoDB\
+<img alt="Иконка CSS" width="21" height="21" src="/assets/icons/icons8-css-48.png" /> CSS <img alt="Иконка React" width="21" height="21" src="/assets/icons/icons8-react-a-javascript-library-for-building-user-interfaces-48.png" /> React <img alt="Иконка Express" width="21" height="21" src="/assets/icons/icons8-express-js-50.png" /> Express <img alt="Иконка Docker" width="21" height="21" src="/assets/icons/icons8-docker-48.png" /> Docker 
