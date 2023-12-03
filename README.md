@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=256&section=header&text=Приветствую,%20меня%20зовут%20Сергей&fontSize=46)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:FF318C,100:8A5CF5&fontColor=3b3b3b&text=Hello%20World&height=150&fontSize=60&desc=I%27m%20Sergey&descAlignY=75&descAlign=60)
 
 
 Являюсь начинающим веб-разработчиком. Окончил курсы Яндекс.Практикум. Делаю первый опыт в разработке. Ищу работу и не унываю, потому что: `время + усилия = результат`. Топлю за React. Всем добра и позитива.
