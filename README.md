@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:FF318C,100:8A5CF5&fontColor=3b3c36&text=Hello%20World&height=150&fontSize=60&desc=I%27m%20Sergey&descAlignY=75&descAlign=60)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:FF318C,100:8A5CF5&fontColor=30363D&text=Hello%20World&height=150&fontSize=60&desc=I%27m%20Sergey&descAlignY=75&descAlign=60)
 
 ---
 
