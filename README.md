@@ -6,7 +6,7 @@
 
 Что по планам:\
 <img alt="Иконка TypeScript" width="21" height="21" src="/assets/icons/icon-typescript.png" /> Изучить TypeScript;\
-🔣 Алгоритмы, наше всё;\
+🔄 Алгоритмы, наше всё;\
 🎫 Отметить все [стикеры](https://miro.com/app/board/uXjVNHxhl30=/?share_link_id=162594989692);
 
 К чему стремлюсь:\
