@@ -12,6 +12,6 @@
 🗿  К эстетике в разработке;\
 🆙 Улучшать себя и окружающую среду вокруг;
 
-#### Мой стек:
+### Стек:
 
 <img alt="Иконка HTML" width="40" height="40" src="/assets/icons/icons8-html-48.png" /> <img alt="Иконка CSS" width="40" height="40" src="/assets/icons/icons8-css-48.png" /> <img alt="Иконка JS" width="40" height="40" src="/assets/icons/icons8-javascript-48.png" /> <img alt="Иконка React" width="40" height="40" src="/assets/icons/icons8-react-48.png" /> <img alt="Иконка Node.js" width="40" height="40" src="/assets/icons/icons8-node-js-48.png" /> <img alt="Иконка Express" width="40" height="40" src="/assets/icons/icons8-express-js-40.png" /> <img alt="Иконка MongoDB" width="40" height="40" src="/assets/icons/icons8-mongodb-48.png" /> <img alt="Иконка Docker" width="40" height="40" src="/assets/icons/icons8-docker-48.png" /> <img alt="Иконка Webpack" width="40" height="40" src="/assets/icons/icons8-webpack-48.png" />
