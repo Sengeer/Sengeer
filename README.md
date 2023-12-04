@@ -2,7 +2,7 @@
 
 ---
 
-[![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram)](https://t.me/Sengeer)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram)](https://t.me/Sengeer)\
 Являюсь начинающим веб-разработчиком. Окончил курсы Яндекс Практикум. Делаю первый опыт в разработке. Ищу работу и не унываю, потому что: `const result = (time, effort) => time + effort;` Всем добра и позитива!💎
 
 Что по планам:\
