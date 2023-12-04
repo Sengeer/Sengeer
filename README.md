@@ -8,15 +8,15 @@
 
 ## Какие планы:
 
-* &nbsp;<img alt="Иконка TypeScript" width="15" height="15" src="/assets/icons/icon-typescript.png" /> Изучить TypeScript;
-* 🔄 Алгоритмы, наше всё;
-* Отметить все [🎫 стикеры](https://miro.com/app/board/uXjVNHxhl30=/?share_link_id=162594989692);
+> &nbsp;<img alt="Иконка TypeScript" width="15" height="15" src="/assets/icons/icon-typescript.png" /> Изучить TypeScript;
+> 🔄 Алгоритмы, наше всё;
+> Отметить все [🎫 стикеры](https://miro.com/app/board/uXjVNHxhl30=/?share_link_id=162594989692);
 
 ### К чему стремлюсь:
 
-* 🦸🏻‍♂ Становиться эффективным во всех смыслах;
-* 🗿 Эстетике в веб-разработке;
-* 🦾 Улучшать себя и окружающую среду вокруг;
+> 🦸🏻‍♂ Становиться эффективным во всех смыслах;
+> 🗿 Эстетике в веб-разработке;
+> 🦾 Улучшать себя и окружающую среду вокруг;
 
 ### Стек:
 <img alt="Иконка HTML" width="40" height="40" src="/assets/icons/icon-html.png" /> <img alt="Иконка CSS" width="40" height="40" src="/assets/icons/icon-css.png" /> <img alt="Иконка JS" width="40" height="40" src="/assets/icons/icon-javascript.png" /> <img alt="Иконка React" width="40" height="40" src="/assets/icons/icon-react.png" /> <img alt="Иконка Node.js" width="40" height="40" src="/assets/icons/icon-nodejs.png" /> <img alt="Иконка Express" width="40" height="40" src="/assets/icons/icon-express.png" /> <img alt="Иконка MongoDB" width="40" height="40" src="/assets/icons/icon-mongodb.png" /> <img alt="Иконка Docker" width="40" height="40" src="/assets/icons/icon-docker.png" /> <img alt="Иконка Webpack" width="40" height="40" src="/assets/icons/icon-webpack.png" />
