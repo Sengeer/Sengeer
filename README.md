@@ -20,4 +20,6 @@
 ### Стек:
 <img alt="Иконка HTML" width="40" height="40" src="/assets/icons/icon-html.png" /> <img alt="Иконка CSS" width="40" height="40" src="/assets/icons/icon-css.png" /> <img alt="Иконка JS" width="40" height="40" src="/assets/icons/icon-javascript.png" /> <img alt="Иконка React" width="40" height="40" src="/assets/icons/icon-react.png" /> <img alt="Иконка Node.js" width="40" height="40" src="/assets/icons/icon-nodejs.png" /> <img alt="Иконка Express" width="40" height="40" src="/assets/icons/icon-express.png" /> <img alt="Иконка MongoDB" width="40" height="40" src="/assets/icons/icon-mongodb.png" /> <img alt="Иконка Docker" width="40" height="40" src="/assets/icons/icon-docker.png" /> <img alt="Иконка Webpack" width="40" height="40" src="/assets/icons/icon-webpack.png" />
 
+## Статистика
 
+![Sengeer GitHub статистика](https://github-readme-stats.vercel.app/api?username=sengeer&show_icons=true&theme=jolly)
