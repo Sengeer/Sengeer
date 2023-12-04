@@ -8,7 +8,7 @@
 
 ## Какие планы:
 
-* &nbsp;<img alt="Иконка TypeScript" width="14" height="14" src="/assets/icons/icon-typescript.png" /> Изучить TypeScript;
+* &nbsp;<img alt="Иконка TypeScript" width="15" height="15" src="/assets/icons/icon-typescript.png" /> Изучить TypeScript;
 * 🔄 Алгоритмы, наше всё;
 * Отметить все [🎫 стикеры](https://miro.com/app/board/uXjVNHxhl30=/?share_link_id=162594989692);
 
