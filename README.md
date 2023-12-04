@@ -22,4 +22,4 @@
 
 ## Статистика:
 
-![Sergey Polenov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sengeer&show_icons=true&theme=jolly) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sengeer&layout=donut&theme=jolly)
+![Sergey Polenov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sengeer&show_icons=true&hide=contribs,prs&theme=jolly) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sengeer&layout=compact&theme=jolly)
